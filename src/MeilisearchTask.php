@@ -1,6 +1,6 @@
 <?php
 
-namespace Elsuterino\MeilisearchTask;
+namespace Elsuterino\NovaMeilisearchTask;
 
 use Laravel\Nova\Card;
 
