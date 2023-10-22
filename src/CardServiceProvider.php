@@ -1,6 +1,6 @@
 <?php
 
-namespace Elsuterino\MeilisearchTask;
+namespace Elsuterino\NovaMeilisearchTask;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
