@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Elsuterino\\MeilisearchTask\\": "src/"
+            "Elsuterino\\NovaMeilisearchTask\\": "src/"
         }
     },
     "extra": {
