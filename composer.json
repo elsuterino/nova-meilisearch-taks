@@ -1,5 +1,5 @@
 {
-    "name": "elsuterino/meilisearch-task",
+    "name": "elsuterino/nova-meilisearch-task",
     "description": "A Laravel Nova card.",
     "keywords": [
         "laravel",
@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Elsuterino\\MeilisearchTask\\CardServiceProvider"
+                "Elsuterino\\NovaMeilisearchTask\\CardServiceProvider"
             ]
         }
     },
